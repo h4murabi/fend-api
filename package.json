@@ -1,0 +1,22 @@
+{
+  "name": "fend-api",
+  "version": "1.0.0",
+  "description": "API do projeto da empresa fend2",
+  "main": "main.js",
+  "scripts": {
+    "start": "npx json-server db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/h4murabi/fend-api.git"
+  },
+  "author": "Hamurabi Araújo",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/h4murabi/fend-api/issues"
+  },
+  "homepage": "https://github.com/h4murabi/fend-api#readme",
+  "dependencies": {
+    "json-server": "^1.0.0-alpha.23"
+  }
+}
